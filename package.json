@@ -1,18 +1,13 @@
 {
   "name": "moodlejs",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Moodle JavaScript tool dependencies",
   "main": "index.js",
-  "dependencies": {
+  "bundledDependencies": {
     "shifter": "0.2.25",
     "yuidocjs": "0.3.38",
     "jshint": "1.0.0"
   },
   "devDependencies": {},
-  "preferGlobal": true,
-  "bin": {
-    "shifter": "./bin/shifter",
-    "yuidoc": "./bin/yuidoc",
-    "jshint": "./bin/jshint"
-  }
+  "preferGlobal": true
 }
