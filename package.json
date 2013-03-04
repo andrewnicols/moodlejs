@@ -1,6 +1,6 @@
 {
   "name": "moodlejs",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Moodle JavaScript tool dependencies",
   "main": "index.js",
   "dependencies": {
