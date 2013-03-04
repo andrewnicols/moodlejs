@@ -1,7 +1,7 @@
 {
-  "name": "test",
-  "version": "0.0.3",
-  "description": "Moodle",
+  "name": "moodlejs",
+  "version": "0.0.4",
+  "description": "Moodle JavaScript tool dependencies",
   "main": "index.js",
   "dependencies": {
     "shifter": "0.2.25",
@@ -10,7 +10,9 @@
   },
   "devDependencies": {},
   "bin": {
-    "shifter": "./shifter/bin/shifter"
+    "mshifter": "./shifter/bin/shifter",
+    "mjsdoc": "./yuidocjs/bin/yuidoc",
+    "mjshint": "./jshint/bin/jshint"
   },
   "preferGlobal": true
 }
