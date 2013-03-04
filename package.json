@@ -1,9 +1,9 @@
 {
   "name": "moodlejs",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Moodle JavaScript tool dependencies",
   "main": "index.js",
-  "bundledDependencies": {
+  "dependencies": {
     "shifter": "0.2.25",
     "yuidocjs": "0.3.38",
     "jshint": "1.0.0"
