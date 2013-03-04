@@ -1,6 +1,6 @@
 {
   "name": "moodlejs",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Moodle JavaScript tool dependencies",
   "main": "index.js",
   "dependencies": {
@@ -11,6 +11,8 @@
   "devDependencies": {},
   "preferGlobal": true,
   "bin": {
-    "mshifter": "./node_modules/.bin/shifter"
+    "mshifter": "./node_modules/.bin/shifter",
+    "mjshint": "./node_modules/.bin/jshint",
+    "myuidoc": "./node_modules/.bin/yuidoc"
   }
 }
