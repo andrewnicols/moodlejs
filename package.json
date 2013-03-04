@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "0.0.3",
+  "description": "Moodle",
+  "main": "index.js",
+  "dependencies": {
+    "shifter": "0.2.25",
+    "yuidocjs": "0.3.38",
+    "jshint": "1.0.0"
+  },
+  "devDependencies": {},
+  "bin": {
+    "shifter": "./shifter/bin/shifter"
+  },
+  "preferGlobal": true
+}
