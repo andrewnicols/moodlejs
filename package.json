@@ -1,6 +1,6 @@
 {
   "name": "moodlejs",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Moodle JavaScript tool dependencies",
   "main": "index.js",
   "dependencies": {
@@ -11,6 +11,6 @@
   "devDependencies": {},
   "preferGlobal": true,
   "bin": {
-    "mshifter": "./.bin/shifter"
+    "mshifter": "./node_modules/.bin/shifter"
   }
 }
